@@ -7,7 +7,7 @@
 - You have a AWS project
 - You can create EKS clusters
 - You will use **AWS CloudShell**
-- You will operate from the `US East (Ohio)` region
+- You will operate from the `us-east-2` region
 
 ---
 
