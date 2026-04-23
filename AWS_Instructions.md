@@ -4,7 +4,7 @@
 
 ### Assumptions
 
-- You have a AWS project
+- You have a AWS account
 - You can create EKS clusters
 - You will use **AWS CloudShell**
 - You will operate from the `us-east-2` region
