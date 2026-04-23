@@ -1,13 +1,13 @@
 ---
 
-## Quick Start: GKE (Google Kubernetes Engine)
+## Quick Start: EKS (Amazon Elastic Kubernetes Service)
 
 ### Assumptions
 
-- You have a GCP project
-- You can create GKE clusters
-- You will use **Google Cloud Shell**
-- You will operate from the `us-central1` region
+- You have a AWS project
+- You can create EKS clusters
+- You will use **AWS CloudShell**
+- You will operate from the `US East (Ohio)` region
 
 ---
 
